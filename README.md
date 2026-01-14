@@ -31,8 +31,7 @@ across Maharashtra using Python.
 Om Nandre
 Diploma Computer Engineering Student
 
-
-##⚠ License Notice  
+##License Notice  
 This project is licensed
 Commercial use, direct copying, or redistribution of this project 
 without consent from the author is strictly prohibited.
