@@ -1,8 +1,7 @@
 # UIDAI Aadhaar Data Analysis – Maharashtra
 
-This project was developed for the UIDAI Data Hackathon 2026.
-It analyzes Aadhaar enrolment, demographic updates, and biometric updates
-across Maharashtra using Python.
+This project was developed for the UIDAI Data Hackathon 2026.  
+It analyzes Aadhaar enrolment, demographic updates, and biometric updates across Maharashtra using Python.
 
 ## Objectives
 - Identify enrolment patterns
@@ -28,11 +27,10 @@ across Maharashtra using Python.
 - Actionable recommendations
 
 ## Author
-Om Nandre
+Om Nandre  
 Diploma Computer Engineering Student
 
-##License Notice  
-This project is licensed
-Commercial use, direct copying, or redistribution of this project 
-without consent from the author is strictly prohibited.
-  
+## License Notice
+This project is licensed.  
+Commercial use, direct copying, or redistribution of this project without consent from the author is strictly prohibited.
+
