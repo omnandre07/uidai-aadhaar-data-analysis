@@ -23,7 +23,7 @@ across Maharashtra using Python.
 - Rural access gap exists
 
 ## Outputs
-- 7 analytical graphs
+- Analytical graphs
 - District & area-wise insights
 - Actionable recommendations
 
