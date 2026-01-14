@@ -3,5 +3,6 @@ Data-driven analysis of Aadhaar enrolment, demographic &amp; biometric updates a
 
 ⚠ License Notice  
 This project is licensed 
-Commercial use or direct copying is prohibited.  
-Modifications allowed only with proper credit.
+Commercial use, direct copying, or redistribution of this project 
+without consent from the author is strictly prohibited.
+  
